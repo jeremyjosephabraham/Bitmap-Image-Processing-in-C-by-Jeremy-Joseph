@@ -1,7 +1,6 @@
 # Image Processing in C by Jeremy  Joseph
- Image Processing program that applies changes on bitmap image 
- 
-This program will  
+# a Bitmap image processing program in developed in C for the Data Structures course, code – CSB 102 in the 2nd  academic semester. 
+ Image Processing program that applies changes on bitmap image. 
 
 1.Convert image to black and white
 
